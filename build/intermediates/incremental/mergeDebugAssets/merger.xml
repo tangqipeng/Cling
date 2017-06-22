@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/tangqipeng/StudioProjects/AndroidPhone/VirtualVideo_S1/vcinemaprojectionscreen/src/main/assets"/><source path="/Users/tangqipeng/StudioProjects/AndroidPhone/VirtualVideo_S1/vcinemaprojectionscreen/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/tangqipeng/StudioProjects/AndroidPhone/VirtualVideo_S1/vcinemaprojectionscreen/src/debug/assets"/></dataSet></merger>
